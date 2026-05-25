@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">خدمات منزلية</string>
+    <string name="navigation_drawer_open">فتح القائمة</string>
+    <string name="navigation_drawer_close">إغلاق القائمة</string>
+
+    <!-- Admin -->
+    <string name="admin_dashboard">لوحة التحكم</string>
+    <string name="users">المستخدمين</string>
+    <string name="providers">المزودين</string>
+    <string name="requests">الطلبات</string>
+    <string name="revenue">الأرباح</string>
+    <string name="categories">الفئات</string>
+    <string name="service_providers">مزودي الخدمات</string>
+    <string name="add_new">+ إضافة</string>
+
+    <!-- Dialogs -->
+    <string name="add_category">إضافة فئة</string>
+    <string name="edit_category">تعديل فئة</string>
+    <string name="category_name">اسم الفئة</string>
+    <string name="save">حفظ</string>
+    <string name="add_provider">إضافة مزود</string>
+    <string name="edit_provider">تعديل مزود</string>
+    <string name="provider_name">اسم المزود</string>
+    <string name="price_per_hour">السعر لكل ساعة</string>
+    <string name="select_category">اختر الفئة</string>
+    <string name="description">الوصف</string>
+
+    <!-- Customer -->
+    <string name="welcome_customer">مرحباً بك!</string>
+    <string name="search_hint">ابحث عن خدمة...</string>
+    <string name="popular_services">الخدمات الشائعة</string>
+    <string name="no_services">لا يوجد خدمات حالياً</string>
+    <string name="my_requests">طلباتي</string>
+    <!-- Profile -->
+    <string name="profile">الملف الشخصي</string>
+    <string name="contact_info">معلومات التواصل</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+</resources>

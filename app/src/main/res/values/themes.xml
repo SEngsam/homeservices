@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.HomeServices"
+        parent="Theme.Material3.Light.NoActionBar">
+
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/brand_orange</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorPrimaryContainer">@color/brand_orange</item>
+        <item name="colorOnPrimaryContainer">@color/white</item>
+        <item name="android:layoutDirection">rtl</item>
+        <item name="android:textDirection">rtl</item>
+        <!-- Secondary Colors -->
+        <item name="colorSecondary">@color/brand_blue</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">@color/brand_blue</item>
+
+        <!-- Disable Dark Mode -->
+
+
+        <!-- Cairo Font -->
+        <item name="android:fontFamily">@font/cairo</item>
+        <item name="fontFamily">@font/cairo</item>
+
+    </style>
+
+    <style name="Theme.HomeServices"
+        parent="Base.Theme.HomeServices" />
+
+</resources>

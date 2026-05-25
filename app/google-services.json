@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "178519065401",
+    "firebase_url": "https://homeservices-29990-default-rtdb.firebaseio.com",
+    "project_id": "homeservices-29990",
+    "storage_bucket": "homeservices-29990.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178519065401:android:50f1fd04d1b6dde23e1ee8",
+        "android_client_info": {
+          "package_name": "com.example.homeservices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzL_n9nUr6GYyY6SiSKAXyGr4OL4ENhkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

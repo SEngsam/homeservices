@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+
+    <!-- Brand Colors -->
+
+    <color name="brand_blue_light">#2A457A</color>
+
+    <color name="gray_light">#F5F5F5</color>
+
+
+    <color name="purple_500">#F58123</color> <!-- Alias for backward compatibility if needed -->
+    <color name="blue_500">#192C50</color> <!-- Alias for backward compatibility if needed -->
+    <color name="brand_blue">#1D365C</color>
+    <color name="brand_orange">#E07019</color>
+    <color name="gray_dark">#8A94A6</color>
+    <color name="white">#FFFFFF</color>
+</resources>
